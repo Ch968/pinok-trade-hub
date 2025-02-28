@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "30.00",
+    "detail": "ONLINE TRADING CLASS",
+    "image": "./pic1.png"
+  },
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "50.00",
+    "detail": "ONLINE MENTORSHIP CLASS",
+    "image": "./pic2.png"
+  },
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "30.00",
+    "detail": "COACHING CLASS",
+    "image": "./pic3.png"
+  },
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "30.00",
+    "detail": "ONLINE TRADING CLASS",
+    "image": "./pic1.png"
+  },
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "50.00",
+    "detail": "ONLINE MENTORSHIP CLASS",
+    "image": "./pic2.png"
+  },
+  {
+    "name": "SIX MONTH INTENSIVE TRAINING",
+    "price": "30.00",
+    "detail": "COACHING CLASS",
+    "image": "./pic3.png"
+  }
+]
