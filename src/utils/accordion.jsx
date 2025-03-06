@@ -9,7 +9,7 @@ const data = [
   },
   {
     icon: <MdCancel />,
-    heading: "Navigate The Forex Market With Cofidence And Precision",
+    heading: "Navigate The Forex Market With Confidence And Precision",
     detail:
       "Our mentorship program equips you with the knowlege and skills to navigate the forex market with unwavering confidence.",
   },

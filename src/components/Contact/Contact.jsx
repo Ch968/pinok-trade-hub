@@ -17,7 +17,7 @@ const Contact = () => {
           </span>
           <span className='secondaryText'>
             WE are always ready to help by providing tne best services
-            A good place to have good trading learning experinence and make your life better.
+            A good place to have good trading learning experience and make your life better.
           </span>
 
           <div className="flexColStart contactModes">
@@ -82,7 +82,6 @@ const Contact = () => {
                 </div>
                 <div className="flexCenter button">
                   MESSAGE NOW TO JOIN
-                  <a href='https://wa.me/+447351962554'></a>
                   </div>
 
               </div>

@@ -27,7 +27,7 @@ const Header = () => {
                 >
                     PINOK ACADEMY
                 </a>
-                <a href='Value.jsx'>OUR VALUE</a>
+                <a href=''>OUR VALUE</a>
                 <a href=''>CONTACT US</a>
                 <a href=''>GET STARTED</a>
                 <button className='button'>
